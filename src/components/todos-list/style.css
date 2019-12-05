@@ -1,0 +1,13 @@
+.ul-Todo {
+  list-style: none;
+  width: 100%;
+}
+
+.ul-Todo li {
+  padding: 8px;
+  margin: 8px;
+  border: 1px solid #368600;
+  color: #303030;
+  font-size: 18px;
+  cursor: pointer;
+}

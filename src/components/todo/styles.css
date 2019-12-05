@@ -1,0 +1,12 @@
+.completed {
+  text-decoration: line-through;
+}
+.article-todo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  width: 100%;
+  /* border: solid 1px #666; */
+}
